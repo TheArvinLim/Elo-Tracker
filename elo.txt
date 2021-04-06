@@ -1,0 +1,99 @@
+
+Gary	Navindd	0
+Kevin	Simon	0
+Daniel	Arvin	1
+
+Gary	Kevin	0
+Daniel	Navindd	1
+Arvin	Simon	1
+
+Gary	Simon	0
+Navindd	Arvin	0
+Kevin	Daniel	0
+
+Gary	Arvin	1
+Simon	Daniel	1
+Navindd	Kevin	0
+
+Arvin	Kevin	1
+Simon	Navindd	0
+
+Navindd	Arvin	0
+Chris	Simon	0
+Kevin	Gary	0
+
+Chris	Gary	1
+Simon	Arvin	0
+Kevin	Navindd	0
+
+Chris	Navindd	0
+Arvin	Kevin	1
+Gary	Simon	0
+
+Chris	Kevin	0.5
+Navindd	Simon	0
+Arvin	Gary	0.5
+
+Daniel	Kevin	1
+Arvin	Chris	1
+
+Kevin	Chris	1
+Arvin	Daniel	1
+
+Daniel	Chris	1
+Arvin	Kevin	1
+
+Arvin	Kevin	1
+Navindd	Gary	1
+
+Gary	Kevin	1
+Navindd	Arvin	1
+
+Kevin	Navindd	1
+Gary	Arvin	1
+
+Arvin	Simon	1
+Navindd	Kevin	1
+
+Kevin	Simon	1
+Arvin	Navindd	1
+
+Arvin	Kevin	1
+Navindd	Simon	1
+
+Arvin	Navindd	1
+Simon	Gary	1
+
+Simon	Navindd	1
+
+Simon	Arvin	1
+
+Arvin	Simon	1
+Kevin	Navindd	1
+
+Kevin	Arvin	1
+Simon	Navindd	1
+
+Simon	Kevin	1
+Navindd	Arvin	1
+
+Simon	Arvin	1
+Kevin	Navindd	1
+
+Navindd	Arvin	1
+Simon	Kevin	1
+
+Simon	Navindd	1
+Kevin	Arvin	1
+
+Arvin	Gary	1
+Navindd	Kevin	1
+
+Arvin	Navindd	1
+
+Navindd	Gary	1
+Arvin	Chris	1
+
+Kevin	Gary	1
+
+
